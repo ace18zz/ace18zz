@@ -9,6 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace18zz&layout=compact" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ace18zz&repo=GrowUp-ios-app)](https://github.com/ace18zz/GrowUp-ios-app)
+[![Grow Up Card](https://github-readme-stats.vercel.app/api/pin/?username=ace18zz&repo=GrowUp-ios-app)](https://github.com/ace18zz/GrowUp-ios-app)
 
 Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
