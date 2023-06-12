@@ -1,7 +1,7 @@
 
 
 
-[![ace18zz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace18zz&show_icons=true&hide=stars,commits,prs,issues,contribs,)](https://github.com/anuraghazra/github-readme-stats)
+[![ace18zz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace18zz&show_icons=true&hide=stars,commits,prs,issues,contribs,rank)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
