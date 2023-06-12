@@ -1,7 +1,8 @@
 
 
 
-[![ace18zz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace18zz)](https://github.com/anuraghazra/github-readme-stats)
+[![ace18zz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace18zz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <a href="https://github.com/ace18zz">
