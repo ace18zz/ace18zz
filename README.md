@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🧑🏻‍💻 I’m currently working on projects with DF<br> 🙌🏻 I’m looking to collaborate on software dev <br>🌱 I’m currently working JS and Java <br>💬 Ask me about Java<br>⚡ Fun fact persistent 
+🧑🏻‍💻 I’m currently working on projects with Catixs <br> 🙌🏻 I’m looking to collaborate on software dev <br>🌱 I’m currently working JS and Java <br>💬 Ask me about Java<br>⚡ Fun fact persistent 
 
 # 👔 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziting-zhao-15857b178/) 
