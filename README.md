@@ -10,10 +10,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)![Python](https://img.shields.io/badge/Python-%23007ACC.svg?style=for-the-badge&logo=Python&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![HTML5](https://img.shields.io/badge/HTML-%23007ACC.svg?style=for-the-badge&logo=HTML&logoColor=white)![CSS](https://img.shields.io/badge/CSS-%23007ACC.svg?style=for-the-badge&logo=Cascading_Style_Sheets&logoColor=white) ![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=React&logoColor=%23F7DF1E)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-
-<!--[![Grow Up Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ace18zz&repo=GrowUp-ios-app)](https://github.com/ace18zz/GrowUp-ios-app)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace18zz&hide_progress=true&theme=dark)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ace18zz&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B,C)
 
